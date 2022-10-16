@@ -409,16 +409,22 @@ link_list:
     theme:
       style: default
       siteImage: ''
-
+  - name: 虎了吧唧 
+    link: https://hulebaji.github.io 
+    avatar: https://hulebaji.github.io/img/avatar.jpg 
+    description: 研墨成浆，提笔思量
+    theme:
+      style: default
+      siteImage: ''
 
 
   # - name: 
   #   link: 
   #   avatar: 
   #   description: 
-  #   是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
+  #   # 是否禁用友链爬虫（true表示不加入友链爬虫队列，false表示加入爬虫队列）
   #   banSub: false
-  #   自定义后缀，对应友链爬虫的suffix字段
+  #   # 自定义后缀，对应友链爬虫的suffix字段
   #   subSuffix: atom.xml
   #   theme:
   #     style: default
