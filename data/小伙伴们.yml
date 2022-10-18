@@ -325,12 +325,12 @@ link_list:
     theme:
       style: item
       siteImage: 
-  - name: CasecoRI 的小站
+  - name: CasecoRI
     link: https://www.casecori.top/
-    avatar: https://casecori.stdcdn.com/favicon.png
-    description: Hyper 2022！
+    avatar: https://cdn.casecori.top/gh/cystee/om/favicon.png
+    description: 高智熵博主
     theme:
-      style: default
+      style: card
       siteImage: ''
   - name: 异次元の机智君
     link: https://www.anzifan.com/
