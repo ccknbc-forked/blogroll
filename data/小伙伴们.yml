@@ -423,6 +423,13 @@ link_list:
     theme:
       style: card
       siteImage: 'https://bu.dusays.com/2022/06/01/6296ceb2e4935.jpg'
+  - name: gejianya
+    link: https://jianya.shop/
+    avatar: https://gcore.jsdelivr.net/gh/gejianya/img-picgo/yuanjiao-touxiang.png
+    description: 分享电商产品知识，增进产品设计和思维
+    theme:
+      style: default
+      siteImage: ''
 
   # - name: 
   #   link: 
