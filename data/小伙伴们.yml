@@ -262,6 +262,7 @@ link_list:
     theme:
       style: item
       siteImage: 
+    banSub: true
   - avatar: https://gcore.jsdelivr.net/gh/hiltay/imgcdn/img/202111191951780.JPG
     description: When nothing goes right,just go left.
     link: https://www.yyyzyyyz.cn/
