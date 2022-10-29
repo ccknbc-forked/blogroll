@@ -92,6 +92,7 @@ link_list:
     theme:
       style: item
       siteImage: ''
+    banSub: true
   - avatar: https://thirdqq.qlogo.cn/g?b=sdk&nk=3225454747&s=140
     description: 很帅很帅的中学生☺
     link: https://cn.weikecc.top/
@@ -99,6 +100,7 @@ link_list:
     theme:
       style: item
       siteImage: 
+    banSub: true
   - avatar: https://public.cdn.nesxc.com/avatar.jpg
     description: 青石落晚巷 故人未还乡
     link: https://www.nesxc.com
@@ -134,6 +136,7 @@ link_list:
     theme:
       style: card
       siteImage: 
+    banSub: true
   - avatar: https://gcore.jsdelivr.net/gh/CNhuazhu/Image/avatar.jpg
     description: 佛系青年
     link: https://cnhuazhu.top
@@ -141,6 +144,7 @@ link_list:
     theme:
       style: item
       siteImage: ''
+    banSub: true
   - avatar: https://s3.ax1x.com/2021/02/03/yKETNn.jpg
     description: Think Differently. 非同凡想。
     link: https://stevestudio.top
@@ -148,6 +152,7 @@ link_list:
     theme:
       style: item
       siteImage: ''
+    banSub: true
   - avatar: 
       https://gitee.com/sutianxin/my-hexo-blog-photo/raw/master/20210213111233.png
     description: 往者不谏 来者可追
@@ -184,6 +189,7 @@ link_list:
     theme:
       style: item
       siteImage: ''
+    banSub: true
   - avatar: https://0skyu.cn/img/1.jpg
     description: 一枚技术控的博客
     link: https://0skyu.cn
@@ -241,6 +247,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
+    banSub: true
   - avatar: https://moeci.com/images/avatar.png
     description: The stupid one is me
     link: https://moeci.com
@@ -290,6 +297,7 @@ link_list:
     theme:
       style: item
       siteImage: 
+    banSub: true
   - avatar: https://gcore.jsdelivr.net/gh/fivefirex/cdn/avatar.jpeg
     description: 啥也不会的菜鸟，开发编程
     link: https://fivefirex.github.io/
@@ -297,6 +305,7 @@ link_list:
     theme:
       style: item
       siteImage: https://gcore.jsdelivr.net/gh/fivefirex/cdn/fivefire2021-siteshot.jpg
+    banSub: true
   - avatar: https://npm.elemecdn.com/onexuezha_img@1.0.27/%E7%AB%99%E7%82%B9/xuezha.webp
     description: 择一事终一生,不为繁华易匠心
     link: https://www.xuezha.cc/
@@ -304,6 +313,7 @@ link_list:
     theme:
       style: item
       siteImage: 
+    banSub: true
   - avatar: https://mingxin142.gitee.io/images/logo.png
     description: 一个分享知识和快乐的地方！
     link: https://www.wwru.cn/
@@ -325,6 +335,7 @@ link_list:
     theme:
       style: item
       siteImage: 
+    banSub: true
   - name: CasecoRI
     link: https://www.casecori.top/
     avatar: https://cdn.casecori.top/gh/cystee/om/favicon.png
@@ -339,6 +350,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
+    banSub: true
   - name: 修心的小屋
     link: https://xiuxin-666.gitee.io/
     avatar: https://xiuxin-1304803037.cos.ap-shanghai.myqcloud.com/XiuXin.png
@@ -360,6 +372,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
+    banSub: true
   - name: VAE+
     link: https://www.zhangweicheng.xyz/
     avatar: https://www.zhangweicheng.xyz/logo.jpg
@@ -367,6 +380,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
+    banSub: true
   - name: QYstudio
     link: https://qystu.cc
     avatar: https://cravatar.cn/avatar/e554da26e947151c678f1f2a8f78e72b
@@ -395,6 +409,7 @@ link_list:
     theme:
       style: card
       siteImage: ''
+    banSub: true
   - name: LYXの小破站
     link: https://yisous.xyz
     avatar: https://yisous.xyz/img/avatar.jpg
@@ -430,6 +445,7 @@ link_list:
     theme:
       style: default
       siteImage: ''
+    banSub: true
 
   # - name: 
   #   link: 
