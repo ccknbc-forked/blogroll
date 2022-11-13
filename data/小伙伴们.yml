@@ -447,7 +447,20 @@ link_list:
       style: default
       siteImage: ''
     banSub: true
-
+  - name: Mycpen
+    link: https://cpen.top/
+    avatar: https://image.cpen.top/image/avatar.jpg
+    description: 这是一个有趣的博客
+    theme:
+      style: card
+      siteImage: 'https://image.cpen.top/image/cpen.top.jpg'
+  - name: 张时贰
+    link: https://zhangshier.vip
+    avatar: https://zhangshier.vip/Hexo_img/avatar.jpg
+    description: 环转码，爱敲代码的小张！
+    theme:
+      style: default
+      siteImage: ''
   # - name: 
   #   link: 
   #   avatar: 
