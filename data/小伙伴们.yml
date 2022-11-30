@@ -461,6 +461,13 @@ link_list:
     theme:
       style: default
       siteImage: ''
+  - name: Nuyoah
+    link: https://262259.xyz/
+    avatar: https://s1.ax1x.com/2022/11/27/zUFla6.png
+    description: 以梦为马，不负韶华
+    theme:
+      style: card
+      siteImage: 'https://s1.ax1x.com/2022/11/27/zUFNMd.png'
   # - name: 
   #   link: 
   #   avatar: 
