@@ -3,7 +3,7 @@ class_desc: "部分失联或头像链接更改的，麻烦尽快联系我修改�
 link_list:
   - name: CC的部落格
     link: https://blog.ccknbc.cc
-    avatar: https://gcore.jsdelivr.net/gh/ccknbc-backup/cdn/logo/ccknbc.png
+    avatar: https://jsd.cdn.zzko.cn/gh/ccknbc-backup/cdn/logo/ccknbc.png
     description: 他们都叫我菜狗
     theme:
       style: card
@@ -15,7 +15,7 @@ link_list:
     theme:
       style: card
       siteImage: 
-  - avatar: https://gcore.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+  - avatar: https://jsd.cdn.zzko.cn/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
     description: 一个收藏回忆与分享技术的地方！
     link: https://www.antmoe.com/
     name: 小康博客
@@ -29,7 +29,7 @@ link_list:
     theme:
       style: card
       siteImage: 
-  - avatar: https://gcore.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png
+  - avatar: https://jsd.cdn.zzko.cn/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png
     description: 做一个普普通通的人.
     link: https://zykj.js.org
     name: ZYKJ's Blog
@@ -43,7 +43,7 @@ link_list:
     theme:
       style: card
       siteImage: 
-  - avatar: https://gcore.jsdelivr.net/npm/nanshen/avatar.jpg
+  - avatar: https://jsd.cdn.zzko.cn/npm/nanshen/avatar.jpg
     description: 爱折腾的JAVA开发工程师
     link: https://blog.imzjw.cn
     name: 小嘉的部落格
@@ -85,7 +85,7 @@ link_list:
     theme:
       style: card
       siteImage: 
-  - avatar: https://gcore.jsdelivr.net/gh/Daibi-mua/jsdelivr@1.3/logo.png
+  - avatar: https://jsd.cdn.zzko.cn/gh/Daibi-mua/jsdelivr@1.3/logo.png
     description: 一个初中生的博客
     link: https://blog.keepdai.cn/
     name: 呆逼の博客
@@ -129,7 +129,7 @@ link_list:
     theme:
       style: card
       siteImage: 
-  - avatar: https://gcore.jsdelivr.net/gh/wayne0926/myphoto/img/avatar.jpg
+  - avatar: https://jsd.cdn.zzko.cn/gh/wayne0926/myphoto/img/avatar.jpg
     description: 以梦为马，不负韶华。
     link: https://wr0926.ml
     name: 时过境迁Wayne博客
@@ -137,7 +137,7 @@ link_list:
       style: card
       siteImage: 
     banSub: true
-  - avatar: https://gcore.jsdelivr.net/gh/CNhuazhu/Image/avatar.jpg
+  - avatar: https://jsd.cdn.zzko.cn/gh/CNhuazhu/Image/avatar.jpg
     description: 佛系青年
     link: https://cnhuazhu.top
     name: 花猪のBlog
@@ -161,7 +161,7 @@ link_list:
     theme:
       style: item
       siteImage: https://gitee.com/sutianxin/my-hexo-blog-photo/raw/master/20210213113046.jpg
-  - avatar: 'https://gcore.jsdelivr.net/gh/zhao-v/blog-img/img/20201020000120.jpg '
+  - avatar: 'https://jsd.cdn.zzko.cn/gh/zhao-v/blog-img/img/20201020000120.jpg '
     description: 所爱隔山海，山海皆可平；所念隔星河，星河不可及。
     link: https://blog.dhbxs.top
     name: 灯火不休时
@@ -182,7 +182,7 @@ link_list:
     theme:
       style: card
       siteImage: ''
-  - avatar: https://gcore.jsdelivr.net/gh/HopeLight/photo/blog/icon.png
+  - avatar: https://jsd.cdn.zzko.cn/gh/HopeLight/photo/blog/icon.png
     description: 生亦何欢，死亦何苦
     link: https://ranas.cn/
     name: HopeLight|Blog
@@ -197,7 +197,7 @@ link_list:
     theme:
       style: item
       siteImage: 
-  - avatar: https://gcore.jsdelivr.net/gh/YDTRINLEY/YDTRINLEY.github.io/img/avatar.png
+  - avatar: https://jsd.cdn.zzko.cn/gh/YDTRINLEY/YDTRINLEY.github.io/img/avatar.png
     description: '"一切有为法, 如梦幻泡影, 如露亦如电, 应作如是观..."'
     link: https://www.yd-cfcz.art
     name: 幻世·游戏人间·N次元
@@ -218,14 +218,14 @@ link_list:
     theme:
       style: card
       siteImage: 
-  - avatar: https://gcore.jsdelivr.net/gh/stevestudio-yi/jsdcdn/20210611133706.jpg
+  - avatar: https://jsd.cdn.zzko.cn/gh/stevestudio-yi/jsdcdn/20210611133706.jpg
     description: Steve Studio 站点
     link: https://stevestudio.top/
     name: SteveStudio
     theme:
       style: card
-      siteImage: https://gcore.jsdelivr.net/gh/stevestudio-yi/jsdcdn/20210828083742.png
-  - avatar: https://gcore.jsdelivr.net/gh/cxplay/core@latest/logo/cxplay.png
+      siteImage: https://jsd.cdn.zzko.cn/gh/stevestudio-yi/jsdcdn/20210828083742.png
+  - avatar: https://jsd.cdn.zzko.cn/gh/cxplay/core@latest/logo/cxplay.png
     description: Share With You.
     link: https://www.cxplay.org/
     name: CXPLAY World
@@ -240,7 +240,7 @@ link_list:
       style: card
       siteImage: 
     banSub: true
-  - avatar: https://gcore.jsdelivr.net/gh/mjcfx/picgo/img/qqtou.jpg
+  - avatar: https://jsd.cdn.zzko.cn/gh/mjcfx/picgo/img/qqtou.jpg
     description: 欢迎您的访问！
     link: https://6ing.xyz/
     name: Xc's Blog
@@ -263,14 +263,14 @@ link_list:
       style: item
       siteImage: 
     banSub: true
-  - avatar: https://gcore.jsdelivr.net/gh/hiltay/imgcdn/img/202111191951780.JPG
+  - avatar: https://jsd.cdn.zzko.cn/gh/hiltay/imgcdn/img/202111191951780.JPG
     description: When nothing goes right,just go left.
     link: https://www.yyyzyyyz.cn/
     name: Black Flies
     theme:
       style: item
-      siteImage: https://gcore.jsdelivr.net/gh/hiltay/imgcdn/img/202111191934973.jpg
-  - avatar: https://gcore.jsdelivr.net/gh/hurangit/hexo-img/avatar.png
+      siteImage: https://jsd.cdn.zzko.cn/gh/hiltay/imgcdn/img/202111191934973.jpg
+  - avatar: https://jsd.cdn.zzko.cn/gh/hurangit/hexo-img/avatar.png
     description: 长风破浪会有时，直挂云帆济沧海
     link: https://blog.huran.xyz/
     name: HuRan Blog
@@ -291,7 +291,7 @@ link_list:
     theme:
       style: item
       siteImage: 
-  - avatar: https://gcore.jsdelivr.net/gh/Kindle-deep/image@main/RoundCorner.png
+  - avatar: https://jsd.cdn.zzko.cn/gh/Kindle-deep/image@main/RoundCorner.png
     description: Nothing is impossible to a willing heart.
     link: https://kindle-deep.github.io
     name: Kindle deepのBlog
@@ -299,13 +299,13 @@ link_list:
       style: item
       siteImage: 
     banSub: true
-  - avatar: https://gcore.jsdelivr.net/gh/fivefirex/cdn/avatar.jpeg
+  - avatar: https://jsd.cdn.zzko.cn/gh/fivefirex/cdn/avatar.jpeg
     description: 啥也不会的菜鸟，开发编程
     link: https://fivefirex.github.io/
     name: FiveFire的博客
     theme:
       style: item
-      siteImage: https://gcore.jsdelivr.net/gh/fivefirex/cdn/fivefire2021-siteshot.jpg
+      siteImage: https://jsd.cdn.zzko.cn/gh/fivefirex/cdn/fivefire2021-siteshot.jpg
     banSub: true
   - avatar: https://npm.elemecdn.com/onexuezha_img@1.0.27/%E7%AB%99%E7%82%B9/xuezha.webp
     description: 择一事终一生,不为繁华易匠心
@@ -391,7 +391,7 @@ link_list:
       siteImage: ''
   - name: Eacls
     link: https://www.eacls.top/
-    avatar: https://cdn.jsdelivr.net/gh/Eacls/eacpho/img/logo.png
+    avatar: https://jsd.cdn.zzko.cn/gh/Eacls/eacpho/img/logo.png
     description: 看一看世界的繁华
     theme:
       style: default
@@ -441,7 +441,7 @@ link_list:
       siteImage: 'https://bu.dusays.com/2022/06/01/6296ceb2e4935.jpg'
   - name: gejianya
     link: https://jianya.shop/
-    avatar: https://gcore.jsdelivr.net/gh/gejianya/img-picgo/yuanjiao-touxiang.png
+    avatar: https://jsd.cdn.zzko.cn/gh/gejianya/img-picgo/yuanjiao-touxiang.png
     description: 分享电商产品知识，增进产品设计和思维
     theme:
       style: default
