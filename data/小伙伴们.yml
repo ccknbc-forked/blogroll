@@ -477,11 +477,18 @@ link_list:
       siteImage: 'https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/anzhiy.cn.jpg'  
   - name: Anjhon’s Blog
     link: https://www.anjhon.top/
-    avatar: https://github.com/An-Jhon/NotionNext/blob/main/public/avatar.png
+    avatar: https://jsd.cdn.zzko.cn/gh/An-Jhon/NotionNext/public/avatar.png
     description: 但知行好事，莫要问前程
     theme:
+      style: default
+      siteImage: ''  
+  - name: SLOVER
+    link: https://678777.xyz/
+    avatar: https://s1.vika.cn/space/2022/11/06/9e4c4d54cff74c70b1a4abe37d4bd6e8
+    description: 诱导已亮，前方净空，祝君武运昌隆
+    theme:
       style: card
-      siteImage: 'https://github.com/An-Jhon/NotionNext/blob/main/public/avatar.png'  
+      siteImage: 'https://s1.vika.cn/space/2023/01/03/ed2f8872abc64ea18af2fbbd6a1120c7'  
   
   
   # - name: 
@@ -493,5 +500,5 @@ link_list:
   #   # 自定义后缀，对应友链爬虫的suffix字段
   #   subSuffix: atom.xml
   #   theme:
-  #     style: default
+  #     style: default/card
   #     siteImage: ''
