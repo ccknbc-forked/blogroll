@@ -489,7 +489,10 @@ link_list:
     theme:
       style: card
       siteImage: 'https://s1.vika.cn/space/2023/01/03/ed2f8872abc64ea18af2fbbd6a1120c7'  
-  
+  - name: Xlenco
+    link: https://blog.xlenco.top/
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=1043865083&s=5
+    descr: 最好的地方,是没去过的地方。最好的时光，是回不来的时光。
   
   # - name: 
   #   link: 
