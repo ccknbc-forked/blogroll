@@ -496,6 +496,13 @@ link_list:
     theme:
       style: default
       siteImage: ''    
+   - name: Yunpengtai
+    link: https://yunpengtai.top/
+    avatar: https://yunpengtai.top/favicon.ico
+    description: A geek about mathematics, machine learning and NLP
+    theme:
+      style: default
+      siteImage: ''
  
  
   # - name: 
