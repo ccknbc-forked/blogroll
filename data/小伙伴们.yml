@@ -68,6 +68,7 @@ link_list:
     description: 梦中做梦,做了个白日梦
     link: https://blog.slqwq.cn
     name: SL's Blog
+    banSub: true
     theme:
       style: card
       siteImage: 
@@ -158,6 +159,7 @@ link_list:
     description: 往者不谏 来者可追
     link: https://sutianxin.top
     name: 天昕
+    banSub: true
     theme:
       style: item
       siteImage: https://gitee.com/sutianxin/my-hexo-blog-photo/raw/master/20210213113046.jpg
@@ -165,6 +167,7 @@ link_list:
     description: 所爱隔山海，山海皆可平；所念隔星河，星河不可及。
     link: https://blog.dhbxs.top
     name: 灯火不休时
+    banSub: true
     theme:
       style: default
       siteImage: ''
@@ -222,6 +225,7 @@ link_list:
     description: Steve Studio 站点
     link: https://stevestudio.top/
     name: SteveStudio
+    banSub: true
     theme:
       style: card
       siteImage: https://jsd.cdn.zzko.cn/gh/stevestudio-yi/jsdcdn/20210828083742.png
@@ -229,6 +233,7 @@ link_list:
     description: Share With You.
     link: https://www.cxplay.org/
     name: CXPLAY World
+    banSub: true
     theme:
       style: card
       siteImage: https://image.thum.io/get/width/1024/crop/768/allowJPG/wait/20/noanimate/https://www.cxplay.org
@@ -274,6 +279,7 @@ link_list:
     description: 长风破浪会有时，直挂云帆济沧海
     link: https://blog.huran.xyz/
     name: HuRan Blog
+    banSub: true
     theme:
       style: item
       siteImage: 
@@ -319,6 +325,7 @@ link_list:
     description: 一个分享知识和快乐的地方！
     link: https://www.wwru.cn/
     name: Mx
+    banSub: true
     theme:
       style: item
       siteImage: ''
@@ -386,6 +393,7 @@ link_list:
     link: https://qystu.cc
     avatar: https://cravatar.cn/avatar/e554da26e947151c678f1f2a8f78e72b
     description: 不因何事去制作 只因兴趣而创造
+    banSub: true
     theme:
       style: default
       siteImage: ''
@@ -479,6 +487,7 @@ link_list:
     link: https://www.anjhon.top/
     avatar: https://jsd.cdn.zzko.cn/gh/An-Jhon/NotionNext/public/avatar.png
     description: 但知行好事，莫要问前程
+    banSub: true
     theme:
       style: default
       siteImage: ''  
@@ -493,6 +502,7 @@ link_list:
     link: https://www.lyshark.com
     avatar: https://www.lyshark.com/images/baidu_logo.png
     description: 道，可道，非常道；名，可名，非常名。—— 老子《道德经》
+    banSub: true
     theme:
       style: default
       siteImage: ''    
