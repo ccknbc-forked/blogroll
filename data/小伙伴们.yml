@@ -513,7 +513,13 @@ link_list:
     theme:
       style: default
       siteImage: ''
- 
+  - name: Shine
+    link: https://blog.shineyu.cn/
+    avatar: https://s3.bmp.ovh/imgs/2022/11/23/129c19d56d22c637.png
+    description: 热爱生活点滴，分享时刻精彩。
+    theme:
+      style: card
+      siteImage: '' 
  
   # - name: 
   #   link: 
