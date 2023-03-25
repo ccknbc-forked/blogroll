@@ -527,8 +527,15 @@ link_list:
     theme:
       style: card
       siteImage: ''  
- 
- 
+  - name: LrcShare
+    link: https://lrcshare.com/
+    avatar: https://lrcshare.com/img/Avatar.jpg
+    description: 全球最小LRC滚动歌词分享网站。
+    theme:
+      style: card
+      siteImage: ''  
+
+
   # - name: 
   #   link: 
   #   avatar: 
