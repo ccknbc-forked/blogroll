@@ -534,6 +534,13 @@ link_list:
     theme:
       style: card
       siteImage: ''  
+  - name: Gtwxxh-小小窝
+    link: https://blog.gtwxxh.cn/
+    avatar: https://cdn.staticaly.com/gh/gtwxxh666/pic@main/1/user.JPG
+    description: 扣首问路，码梦为生
+    theme:
+      style: card
+      siteImage: ''  
 
 
   # - name: 
