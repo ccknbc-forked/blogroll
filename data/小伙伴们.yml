@@ -547,7 +547,7 @@ link_list:
     description: 扣首问路，码梦为生
     theme:
       style: card
-      siteImage: ''
+      siteImage: 'https://admin.licic.net/screenshot.png'
 
 
   # - name: 
