@@ -541,6 +541,13 @@ link_list:
     theme:
       style: card
       siteImage: ''  
+  - name: 李程ic
+    link: https://www.licic.net/
+    avatar: https://admin.licic.net/favicon.png
+    description: 扣首问路，码梦为生
+    theme:
+      style: card
+      siteImage: ''
 
 
   # - name: 
