@@ -463,8 +463,8 @@ link_list:
       style: card
       siteImage: 'https://image.cpen.top/image/cpen.top.jpg'
   - name: 张时贰
-    link: https://zhangshier.vip
-    avatar: https://zhangshier.vip/Hexo_img/avatar.jpg
+    link: https://zhsher.cn
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=1310446718&s=5
     description: 环转码，爱敲代码的小张！
     theme:
       style: default
