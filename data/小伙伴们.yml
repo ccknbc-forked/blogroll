@@ -410,6 +410,12 @@ link_list:
     description: 有肉有猫有生活.
     theme:
       style: default      
+  - name: 小植の小破站
+    link: https://blog.xiaoztx.top/
+    avatar: https://blog.xiaoztx.top/img/xiaozhi.jpg
+    description: 生生不息，好运不止
+    theme:
+      style: default  
 
 
   # - name: 
