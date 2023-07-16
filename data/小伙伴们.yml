@@ -422,6 +422,18 @@ link_list:
     description: 技术分享及生活分享
     theme:
       style: default  
+  - name: Ganzhe
+    link: https://ganzhe2028.github.io/
+    avatar: https://pic.imgdb.cn/item/64895d391ddac507cce97bc3.webpg
+    description: 顺其自然，持之以恒
+    theme:
+      style: default
+  - name: 顺其自然，持之以恒
+    link: https://www.hydsb0.com/
+    avatar: https://bu.dusays.com/2023/07/10/64abbf448d530.jpg
+    description: 努力吃上更贵的雪糕！
+    theme:
+      style: default
 
 
   # - name: 
