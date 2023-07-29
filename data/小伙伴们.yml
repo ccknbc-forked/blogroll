@@ -434,6 +434,12 @@ link_list:
     description: 努力吃上更贵的雪糕！
     theme:
       style: default
+  - name: SuYi-宿仪
+    link: https://www.thotz.top/
+    avatar: https://pic.imgdb.cn/item/6497c3401ddac507ccd9334c.jpg
+    description: 随心写作，随缘阅读
+    theme:
+      style: default
 
 
   # - name: 
