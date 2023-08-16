@@ -446,6 +446,18 @@ link_list:
     description: 一个闲聊萌新动漫技术交流站
     theme:
       style: default
+  - name: 墨尘
+    link: https://mnochen.top/
+    avatar: https://upload-bbs.miyoushe.com/upload/2023/05/20/202672061/e04b8ca642e6e6028c537040720ffa98_2321845104782619490.jpg
+    description: 当个咸鱼时不时翻一个身
+    theme:
+      style: default
+  - name: 风起星辰
+    link: https://blog.qiaoxiao.top/
+    avatar: https://npm.elemecdn.com/yanblog-link@1.0.0/avatar.webp
+    description: 行远自迩，登高自卑
+    theme:
+      style: default
 
 
   # - name: 
