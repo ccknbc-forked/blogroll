@@ -418,8 +418,8 @@ link_list:
       style: default  
   - name: 半方池水半方田
     link: https://uuanqin.top/
-    avatar: https://typora-1301301520.file.myqcloud.com/img/zhuangzhuangmao.jpg
-    description: 技术分享及生活分享
+    avatar: https://cdn.gallery.uuanqin.top/img/avatar.webp
+    description: 只能懂一点点
     theme:
       style: default  
   - name: Ganzhe
