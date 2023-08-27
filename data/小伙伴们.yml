@@ -458,6 +458,12 @@ link_list:
     description: 行远自迩，登高自卑
     theme:
       style: default
+  - name: 字节君
+    link: https://blog.lvbyte.top/
+    avatar: https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg
+    description: 热爱漫无边际,生活自有分寸
+    theme:
+      style: default
 
 
   # - name: 
