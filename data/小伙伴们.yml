@@ -470,6 +470,12 @@ link_list:
     description: 无论什么时候，都不要后悔
     theme:
       style: default
+  - name: hackcr
+    link: https://blog.muzilix.cn/
+    avatar: https://source.muzilix.cn/img/i.png
+    description: 路漫漫其修远兮，吾将上下而求索
+    theme:
+      style: default
 
 
   # - name: 
