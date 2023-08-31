@@ -476,6 +476,12 @@ link_list:
     description: 路漫漫其修远兮，吾将上下而求索
     theme:
       style: default
+  - name: Hieroglyphs
+    link: https://hieroglyphs.top/
+    avatar: https://hieroglyphs.top/images/avatar.png
+    description: 世不患无才，患无用之之道
+    theme:
+      style: default
 
 
   # - name: 
