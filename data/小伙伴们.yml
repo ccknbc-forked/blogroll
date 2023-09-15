@@ -181,13 +181,6 @@ link_list:
     name: 灰鸿的空间
     theme:
       style: default
-  - avatar: https://main.qcloudimg.com/raw/2ef2786bc020ac22e5c523b27a7b07b5.svg
-    description: 「CloudBase Webify 提供网站托管服务」
-    link: https://webify.cloudbase.net/
-    name: 云开发 Webify
-    theme:
-      style: default
-    banSub: true
   - avatar: https://moeci.com/images/avatar.png
     description: The stupid one is me
     link: https://moeci.com
