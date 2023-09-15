@@ -452,10 +452,10 @@ link_list:
     description: 当个咸鱼时不时翻一个身
     theme:
       style: default
-  - name: 风起星辰
-    link: https://blog.qiaoxiao.top/
-    avatar: https://npm.elemecdn.com/yanblog-link@1.0.0/avatar.webp
-    description: 行远自迩，登高自卑
+  - name: 寒烟志
+    link: https://yanyuplus.cn/
+    avatar: https://www.qiaoxiao.top/static/avater/avater.jpg
+    description: 半山腰总是挤的，你得去山顶看看
     theme:
       style: default
   - name: 字节君
