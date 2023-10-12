@@ -475,6 +475,12 @@ link_list:
     description: 世不患无才，患无用之之道
     theme:
       style: default
+  - name: MatrixCore
+    link: https://matrixcore.top/
+    avatar: https://matrixcore.top/avator.png
+    description: 少年辛苦终身事，莫向光阴惰寸功
+    theme:
+      style: default
 
 
   # - name: 
