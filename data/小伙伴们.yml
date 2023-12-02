@@ -481,6 +481,12 @@ link_list:
     description: 少年辛苦终身事，莫向光阴惰寸功
     theme:
       style: default
+  - name: UncleCAT4
+    link: https://yuanj.top/
+    avatar: https://yuanj.top/images/avatar.png
+    description: 思绪来得快去得也快，偶尔会在这里停留
+    theme:
+      style: default
 
 
   # - name: 
