@@ -1,5 +1,5 @@
-class_name: "不再添加外链"
-class_desc: "请勿申请"
+class_name: "小伙伴们（随机排序）"
+class_desc: "部分失联或头像链接更改的，麻烦尽快联系我修改或自行PR"
 link_list:
   - name: CC的部落格
     link: https://blog.ccknbc.cc
@@ -7,12 +7,487 @@ link_list:
     description: 他们都叫我菜狗
     theme:
       style: default
-  - name: CC
-    link: https://www.ccknbc.cc
-    avatar: https://jsd.cdn.zzko.cn/gh/ccknbc-backup/cdn/logo/CC.png
-    description: 啥也不是
+  - avatar: https://akilar.top/img/siteicon/favicon.png
+    description: 期待您的光临！
+    link: https://akilar.top/
+    name: Akilarの糖果屋
     theme:
       style: default
+  - avatar: https://jsd.cdn.zzko.cn/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+    description: 一个收藏回忆与分享技术的地方！
+    link: https://www.antmoe.com/
+    name: 小康博客
+    theme:
+      style: default
+  - avatar: https://forever97.top/img/avatar.png
+    description: 在人海里梦游
+    link: https://forever97.top
+    name: 未央の童话镇
+    theme:
+      style: default
+  - avatar: https://jsd.cdn.zzko.cn/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png
+    description: 做一个普普通通的人.
+    link: https://zykj.js.org
+    name: ZYKJ's Blog
+    theme:
+      style: default
+  - avatar: https://noionion-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/head.jpg
+    description: 用这生命中的每一秒，给自己一个不后悔的未来
+    link: https://noionion.top/
+    name: 贰猹的小窝
+    theme:
+      style: default
+  - avatar: https://jsd.cdn.zzko.cn/npm/nanshen/avatar.jpg
+    description: 爱折腾的JAVA开发工程师
+    link: https://blog.imzjw.cn
+    name: 小嘉的部落格
+    theme:
+      style: default
+  - avatar: https://cdn.leader755.com/public/wx_avatar.png
+    description: 分享web前端相关的技术文章，会记录日常生活中的琐事和大家一起分享。
+    link: https://www.leader755.com/
+    name: leader755 blogs
+    theme:
+      style: default
+  - avatar: https://heart-of-engine-picture-bed-1.oss-cn-beijing.aliyuncs.com/img/%E4%B8%AA%E4%BA%BA%E5%A4%B4%E5%83%8F.jpg
+    description: 专注于数学与编程的完美结合,分享生活,分享知识
+    link: https://www.heart-of-engine.top/
+    name: Heart-of-engine
+    theme:
+      style: default
+  - avatar: https://rmt.dogedoge.com/fetch/hajeekn/storage/Logo@B_3508X4961.png
+    description: On the other side of obstacles.
+    link: https://blog.hesiy.cn
+    name: FloatSheep's Blog
+    theme:
+      style: default
+  - avatar: https://blog.zhheo.com/img/avatar.png
+    description: 爱折腾的设计师
+    link: https://blog.zhheo.com/
+    name: Heo
+    theme:
+      style: default
+  - avatar: https://www.lete114.top/img/avatar.png
+    description: 人生只有一次，大胆的生活!!
+    link: https://blog.lete114.top
+    name: Lete乐特
+    theme:
+      style: default
+  - avatar: https://jsd.cdn.zzko.cn/gh/Daibi-mua/jsdelivr@1.3/logo.png
+    description: 一个初中生的博客
+    link: https://blog.keepdai.cn/
+    name: 呆逼の博客
+    theme:
+      style: default
+  - avatar: https://thirdqq.qlogo.cn/g?b=sdk&nk=3225454747&s=140
+    description: 很帅很帅的中学生☺
+    link: https://cn.weikecc.top/
+    name: WeiKe_Joe
+    theme:
+      style: default
+  - avatar: https://public.cdn.nesxc.com/avatar.jpg
+    description: 青石落晚巷 故人未还乡
+    link: https://www.nesxc.com
+    name: Nesxc
+    theme:
+      style: default
+  - avatar: https://zfe.space/images/headimage.png
+    description: 咕咕咕！
+    link: https://zfe.space/
+    name: 小冰博客
+    theme:
+      style: default
+  - avatar: https://i.loli.net/2021/02/09/Q3zydh8JaruUcFN.png
+    description: 一个练习Bug时长两年半的程序员建立的小站
+    link: https://blog.bugjava.cn
+    name: 包子's Blog
+    theme:
+      style: default
+  - avatar: https://image.ql-isaac.cn/站长头像.jpg
+    description: It’s a beautiful day!
+    link: https://ql-isaac.cn/
+    name: 学习与生活
+    theme:
+      style: default
+  - avatar: https://jsd.cdn.zzko.cn/gh/wayne0926/myphoto/img/avatar.jpg
+    description: 以梦为马，不负韶华。
+    link: https://wrans.top
+    name: "Wayne's blog"
+    theme:
+      style: default
+  - avatar: https://jsd.cdn.zzko.cn/gh/CNhuazhu/Image/avatar.jpg
+    description: 佛系青年
+    link: https://cnhuazhu.top
+    name: 花猪のBlog
+    theme:
+      style: default
+  - avatar: https://s3.ax1x.com/2021/02/03/yKETNn.jpg
+    description: Think Differently. 非同凡想。
+    link: https://stevestudio.top
+    name: Steve 祎
+    theme:
+      style: default
+  - avatar: https://gitee.com/sutianxin/my-hexo-blog-photo/raw/master/20210213111233.png
+    description: 往者不谏 来者可追
+    link: https://sutianxin.top
+    name: 天昕
+    theme:
+      style: default
+  - avatar: 'https://jsd.cdn.zzko.cn/gh/zhao-v/blog-img/img/20201020000120.jpg '
+    description: 所爱隔山海，山海皆可平；所念隔星河，星河不可及。
+    link: https://blog.dhbxs.top
+    name: 灯火不休时
+    theme:
+      style: default
+  - avatar: https://q1.qlogo.cn/g?b=qq&nk=1025212779&s=5
+    description: 为之则易，不为则难。
+    link: https://blog.raxianch.moe/
+    name: 快乐咸鱼の RaXianch 窝
+    theme:
+      style: default
+  - avatar: https://adil.com.cn/img/touxiang.jpg
+    description: 生命不死，折腾不止
+    link: https://blog.adil.com.cn
+    name: Adil
+    theme:
+      style: default
+  - avatar: https://jsd.cdn.zzko.cn/gh/HopeLight/photo/blog/icon.png
+    description: 生亦何欢，死亦何苦
+    link: https://ranas.cn/
+    name: HopeLight|Blog
+    theme:
+      style: default
+  - avatar: https://0skyu.cn/img/1.jpg
+    description: 一枚技术控的博客
+    link: https://0skyu.cn
+    name: 零域
+    theme:
+      style: default
+  - avatar: https://jsd.cdn.zzko.cn/gh/YDTRINLEY/YDTRINLEY.github.io/img/avatar.png
+    description: '"一切有为法, 如梦幻泡影, 如露亦如电, 应作如是观..."'
+    link: https://www.yd-cfcz.art
+    name: 幻世·游戏人间·N次元
+    theme:
+      style: default
+  - avatar: https://hotarugali.github.io/img/hotarugali.jpg
+    description: 欢迎来到我的博客星球^_^
+    link: https://hotarugali.github.io/
+    name: お前はどこまで見えている
+    theme:
+      style: default
+  - avatar: https://gitee.com/huihongyhy/imgbed/raw/master/img/avatar.png
+    description: 一名科技爱好者的空间
+    link: https://space.greyh.cn
+    name: 灰鸿的空间
+    theme:
+      style: default
+  - avatar: https://moeci.com/images/avatar.png
+    description: The stupid one is me
+    link: https://moeci.com
+    name: yiyun's Blog
+    theme:
+      style: default
+  - avatar: https://jsd.cdn.zzko.cn/gh/hiltay/imgcdn/img/202111191951780.JPG
+    description: When nothing goes right,just go left.
+    link: https://www.yyyzyyyz.cn/
+    name: Black Flies
+    theme:
+      style: default
+  - avatar: https://pub.gahotx.cn/photo/cat.jpg
+    description: Don't repeat yourself
+    link: https://gahotx.cn/
+    name: Gahotx
+    theme:
+      style: default
+  - avatar: https://kaiboshi.gitee.io/medias/avatar.png
+    description: 做一个有梦想的咸鱼
+    link: https://kaiboshi.gitee.io/
+    name: kaiboshi
+    theme:
+      style: default
+  - avatar: https://jsd.cdn.zzko.cn/gh/Kindle-deep/image@main/RoundCorner.png
+    description: Nothing is impossible to a willing heart.
+    link: https://kindle-deep.github.io
+    name: Kindle deepのBlog
+    theme:
+      style: default
+  - avatar: https://bu.dusays.com/2022/02/12/5619d1d597022.png
+    description: 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。
+    link: https://www.easyf12.top/
+    name: easyf12
+    theme:
+      style: default
+  - avatar: https://wlopck.gitee.io/blog/img/ico.png
+    description: 守一座空城，等一位旧人。
+    link: https://wlopck.gitee.io/blog/
+    name: 孤城の博客
+    theme:
+      style: default
+  - name: CasecoRI
+    link: https://www.casecori.top/
+    avatar: https://cdn.casecori.top/gh/cystee/om/favicon.png
+    description: 高智熵博主
+    theme:
+      style: default
+  - name: 异次元の机智君
+    link: https://www.anzifan.com/
+    avatar: https://www.anzifan.com/_next/image?url=%2Fstatic%2Fimages%2Fportrait.png&w=1920&q=75
+    description: 异次元の机智君
+    theme:
+      style: default
+  - name: 修心的小屋
+    link: https://xiuxin-666.gitee.io/
+    avatar: https://xiuxin-1304803037.cos.ap-shanghai.myqcloud.com/XiuXin.png
+    description: 若无闲事挂心头,便是人间好时节
+    theme:
+      style: default
+  - name: Leonus's blog
+    link: https://blog.leonus.cn/
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=553344777&s=5
+    description: 进一寸有进一寸的欢喜。
+    theme:
+      style: default
+  - name: 瞳染の小窝
+    link: https://makiru.top
+    avatar: https://public.cdn.makiru.top/logo/avatar.jpg
+    description: 角落的风景有时也是很美的～
+    theme:
+      style: default
+  - name: VAE+
+    link: https://www.zhangweicheng.xyz/
+    avatar: https://www.zhangweicheng.xyz/logo.jpg
+    description: 人与人之间，最舒服的关系；是可以一直不说话，也可以随时说话。
+    theme:
+      style: default
+  - name: QYstudio
+    link: https://qystu.cc
+    avatar: https://cravatar.cn/avatar/e554da26e947151c678f1f2a8f78e72b
+    description: 不因何事去制作 只因兴趣而创造
+    theme:
+      style: default
+  - name: Eacls
+    link: https://www.eacls.top/
+    avatar: https://jsd.cdn.zzko.cn/gh/Eacls/eacpho/img/logo.png
+    description: 看一看世界的繁华
+    theme:
+      style: default
+  - name: Yuexin's Blog
+    link: https://wyxogo.top/
+    avatar: https://wyxogo.top/images/avatar.webp
+    description: KEEP WALKING
+    theme:
+      style: default
+  - name: 御网尚书的小宇宙
+    link: https://www.siteweb.cn/
+    avatar: https://websitecssjs.oss-cn-beijing.aliyuncs.com/links/favicon.ico
+    description: 愿以赤子之心，共建网络空间安全
+    theme:
+      style: default
+  - name: LYXの小破站
+    link: https://yisous.xyz
+    avatar: https://yisous.xyz/img/avatar.jpg
+    description: 人有悲欢离合 月有阴晴圆缺
+    theme:
+      style: default
+  - name: 梦落の小屋
+    link: https://blog.dreamfall.cn
+    avatar: https://mengluo.work/source/img/avatar.jpg
+    description: 因为不可能，所以才值得相信
+    theme:
+      style: default
+  - name: 虎了吧唧 
+    link: https://hulebaji.github.io 
+    avatar: https://hulebaji.github.io/img/avatar.jpg 
+    description: 研墨成浆，提笔思量
+    theme:
+      style: default
+  - name: Ethan.Tzy
+    link: https://tzy1997.com/
+    avatar: https://bu.dusays.com/2022/05/02/626f92e193879.jpg
+    description: 古今之成大事者，不惟有超世之才，亦必有坚忍不拔之志
+    theme:
+      style: default
+  - name: gejianya
+    link: https://jianya.shop/
+    avatar: https://jsd.cdn.zzko.cn/gh/gejianya/img-picgo/yuanjiao-touxiang.png
+    description: 分享电商产品知识，增进产品设计和思维
+    theme:
+      style: default
+  - name: Mycpen
+    link: https://blog.cpen.top/
+    avatar: https://image.cpen.top/image/avatar.jpg
+    description: 这是一个有趣的博客
+    theme:
+      style: default
+  - name: 张时贰
+    link: https://zhsher.cn
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=1310446718&s=5
+    description: 环转码，爱敲代码的小张！
+    theme:
+      style: default
+  - name: Nuyoah
+    link: https://262259.xyz/
+    avatar: https://s1.ax1x.com/2022/11/27/zUFla6.png
+    description: 以梦为马，不负韶华
+    theme:
+      style: default
+  - name: 安知鱼`Blog
+    link: https://anzhiy.cn/
+    avatar: https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg
+    description: 生活明朗，万物可爱
+    theme:
+      style: default
+  - name: Anjhon’s Blog
+    link: https://www.anjhon.top/
+    avatar: https://jsd.cdn.zzko.cn/gh/An-Jhon/NotionNext/public/avatar.png
+    description: 但知行好事，莫要问前程
+    theme:
+      style: default
+  - name: SLOVER
+    link: https://678777.xyz/
+    avatar: https://s1.vika.cn/space/2022/11/06/9e4c4d54cff74c70b1a4abe37d4bd6e8
+    description: 诱导已亮，前方净空，祝君武运昌隆
+    theme:
+      style: default
+  - name: LyShark - 孤风洗剑
+    link: https://www.lyshark.com
+    avatar: https://www.lyshark.com/images/baidu_logo.png
+    description: 道，可道，非常道；名，可名，非常名。—— 老子《道德经》
+    theme:
+      style: default
+  - name: Yunpengtai
+    link: https://yunpengtai.top/
+    avatar: https://yunpengtai.top/favicon.ico
+    description: A geek about mathematics, machine learning and NLP
+    theme:
+      style: default
+  - name: Shine
+    link: https://blog.shineyu.cn/
+    avatar: https://s3.bmp.ovh/imgs/2022/11/23/129c19d56d22c637.png
+    description: 热爱生活点滴，分享时刻精彩。
+    theme:
+      style: default
+  - name: 南方嘉木
+    link: https://gavin-chen.top/
+    avatar: https://i.imgtg.com/2023/01/06/GZRKN.jpg
+    description: 不畏将来，不念过往。
+    theme:
+      style: default
+  - name: LrcShare
+    link: https://lrcshare.com/
+    avatar: https://lrcshare.com/img/Avatar.jpg
+    description: 全球最小LRC滚动歌词分享网站。
+    theme:
+      style: default
+  - name: Gtwxxh-小小窝
+    link: https://blog.gtwxxh.cn/
+    avatar: https://cdn.staticaly.com/gh/gtwxxh666/pic@main/1/user.JPG
+    description: 扣首问路，码梦为生
+    theme:
+      style: default
+  - name: 李程ic
+    link: https://www.licic.net/
+    avatar: https://admin.licic.net/favicon.png
+    description: 扣首问路，码梦为生
+    theme:
+      style: default
+  - name: 1874
+    link: https://1874.cool/
+    avatar: https://1874.cool/favicon.ico
+    description: 中华人民共和国万岁！
+    theme:
+      style: default
+  - name: 爱吃肉的猫
+    link: https://meuicat.com/
+    avatar: https://s1.ax1x.com/2023/05/26/p9qChjI.jpg
+    description: 有肉有猫有生活.
+    theme:
+      style: default      
+  - name: 小植の小破站
+    link: https://blog.xiaoztx.top/
+    avatar: https://blog.xiaoztx.top/img/xiaozhi.jpg
+    description: 生生不息，好运不止
+    theme:
+      style: default  
+  - name: 半方池水半方田
+    link: https://uuanqin.top/
+    avatar: https://cdn.gallery.uuanqin.top/img/avatar.webp
+    description: 只能懂一点点
+    theme:
+      style: default  
+  - name: Ganzhe
+    link: https://ganzhe2028.github.io/
+    avatar: https://pic.imgdb.cn/item/64895d391ddac507cce97bc3.webpg
+    description: 顺其自然，持之以恒
+    theme:
+      style: default
+  - name: 探人间
+    link: https://www.hydsb0.com/
+    avatar: https://bu.dusays.com/2023/07/10/64abbf448d530.jpg
+    description: 努力吃上更贵的雪糕！
+    theme:
+      style: default
+  - name: SuYi-宿仪
+    link: https://www.thotz.top/
+    avatar: https://pic.imgdb.cn/item/64c09ca51ddac507cc7f1585.png
+    description: 随心写作，随缘阅读
+    theme:
+      style: default
+  - name: 桜紺狸の部落阁
+    link: https://www.skira.top/
+    avatar: https://www.skira.top/img/lemonsuka.webp
+    description: 一个闲聊萌新动漫技术交流站
+    theme:
+      style: default
+  - name: 墨尘
+    link: https://mnochen.top/
+    avatar: https://upload-bbs.miyoushe.com/upload/2023/05/20/202672061/e04b8ca642e6e6028c537040720ffa98_2321845104782619490.jpg
+    description: 当个咸鱼时不时翻一个身
+    theme:
+      style: default
+  - name: 寒烟志
+    link: https://yanyuplus.cn/
+    avatar: https://www.qiaoxiao.top/static/avater/avater.jpg
+    description: 半山腰总是挤的，你得去山顶看看
+    theme:
+      style: default
+  - name: 字节君
+    link: https://blog.lvbyte.top/
+    avatar: https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg
+    description: 热爱漫无边际,生活自有分寸
+    theme:
+      style: default
+  - name: 吮指原味姬
+    link: https://www.yejinblok.cn/
+    avatar: https://img01.anheyu.com/useruploads/243/2023/08/15/64db8a22b3b83.ico
+    description: 无论什么时候，都不要后悔
+    theme:
+      style: default
+  - name: hackcr
+    link: https://blog.muzilix.cn/
+    avatar: https://source.muzilix.cn/img/i.png
+    description: 路漫漫其修远兮，吾将上下而求索
+    theme:
+      style: default
+  - name: Hieroglyphs
+    link: https://hieroglyphs.top/
+    avatar: https://hieroglyphs.top/images/avatar.png
+    description: 世不患无才，患无用之之道
+    theme:
+      style: default
+  - name: MatrixCore
+    link: https://matrixcore.top/
+    avatar: https://matrixcore.top/avator.png
+    description: 少年辛苦终身事，莫向光阴惰寸功
+    theme:
+      style: default
+  - name: UncleCAT4
+    link: https://yuanj.top/
+    avatar: https://yuanj.top/images/avatar.png
+    description: 思绪来得快去得也快，偶尔会在这里停留
+    theme:
+      style: default
+
 
   # - name: 
   #   link: 
