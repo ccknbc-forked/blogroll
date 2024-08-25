@@ -73,18 +73,6 @@ link_list:
     name: Lete乐特
     theme:
       style: default
-  - avatar: https://jsd.cdn.zzko.cn/gh/Daibi-mua/jsdelivr@1.3/logo.png
-    description: 一个初中生的博客
-    link: https://blog.keepdai.cn/
-    name: 呆逼の博客
-    theme:
-      style: default
-  - avatar: https://thirdqq.qlogo.cn/g?b=sdk&nk=3225454747&s=140
-    description: 很帅很帅的中学生☺
-    link: https://cn.weikecc.top/
-    name: WeiKe_Joe
-    theme:
-      style: default
   - avatar: https://public.cdn.nesxc.com/avatar.jpg
     description: 青石落晚巷 故人未还乡
     link: https://www.nesxc.com
@@ -117,7 +105,7 @@ link_list:
       style: default
   - avatar: https://jsd.cdn.zzko.cn/gh/CNhuazhu/Image/avatar.jpg
     description: 佛系青年
-    link: https://cnhuazhu.top
+    link: https://cnhuazhu.top/butterfly/
     name: 花猪のBlog
     theme:
       style: default
