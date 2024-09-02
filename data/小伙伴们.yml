@@ -259,6 +259,12 @@ link_list:
     description: 思绪来得快去得也快，偶尔会在这里停留
     theme:
       style: default
+  - name: ❖星港◎Star☆
+    link: https://blog.starsharbor.com
+    avatar: https://bu.dusays.com/2023/09/27/6513053bebdb2.webp
+    description: 以博客记录生活与热爱！
+    theme:
+      style: default
 
 
   # - name: 
