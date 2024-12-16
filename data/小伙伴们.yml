@@ -267,7 +267,7 @@ link_list:
       style: default
   - name: 青稚の空间
     link: https://blog.linux-qitong.top
-    avatar: https://blog.linux-qitong.top/img/avatar.jpg
+    avatar: https://blog.linux-qitong.top/img/avatar.avif
     description: 越努力，越幸运.
     theme:
       style: default
