@@ -265,9 +265,9 @@ link_list:
     description: 以博客记录生活与热爱！
     theme:
       style: default
-  - name: 青稚の空间
+  - name: 栖童の小站
     link: https://blog.linux-qitong.top
-    avatar: https://blog.linux-qitong.top/img/avatar.avif
+    avatar: https://blog.linux-qitong.top/img/avatar.webp
     description: 越努力，越幸运.
     theme:
       style: default
