@@ -271,8 +271,12 @@ link_list:
     description: 越努力，越幸运.
     theme:
       style: default
-
-
+  - name: FF
+    url: https://www.foolishfox.cn/
+    avatar: https://asset.foolishfox.cn/static/avatar.jpg
+    descr: foolish fox
+    theme:
+      style: default
 
   # - name: 
   #   link: 
